@@ -1,0 +1,27 @@
+{
+  "name": "multilingual-country-info",
+  "repository": "github:mjorgegulab/multilingual-country-info",
+  "homepage": "https://github.com/mjorgegulab/multilingual-country-info/#readme",
+  "version": "1.0.0",
+  "description": "Extract country information from country name or country code (multilingual)",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "thewolfx41",
+  "scripts": {
+    "docs": "node -e 0",
+    "lint": "eslint --ext .js ."
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "country",
+    "country-information",
+    "country-code",
+    "country-multilanguage",
+    "multilanguage"
+  ],
+  "devDependencies": {
+    "eslint": "8.24.0"
+  }
+}
